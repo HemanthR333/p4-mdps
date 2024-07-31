@@ -1,0 +1,2 @@
+streamlit run "C:\Users\Hemanth R\Desktop\multiple-disease-prediction-streamlit-app-main\app.py"
+streamlit run "C:\Users\Hemanth R\Desktop\multiple-disease-prediction-streamlit-app-main\app1.py"
